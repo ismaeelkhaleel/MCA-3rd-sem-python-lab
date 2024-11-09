@@ -1,0 +1,8 @@
+Program,Course
+MCA,Database
+MCA,Java
+M.Sc,Data Structure
+B.Sc,Python
+B.Sc,Statistics
+MCA,Web Development
+M.Sc,Algorithms

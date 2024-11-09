@@ -1,0 +1,3 @@
+D101,physics,AMU
+D102,math,AMU
+D103,Chemistry,AMU

@@ -1,0 +1,3 @@
+aamir,E101,23000,D101,physics,AMU
+ismaeel,E102,40000,D102,math,AMU
+umair,E103,23000,D103,Chemistry,AMU
